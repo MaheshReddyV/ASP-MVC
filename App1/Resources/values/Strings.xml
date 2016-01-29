@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, this is new world of android Click Me!</string>
+    <string name="ApplicationName">First  application </string>
+<image src ="C:\Users\Mahesh\Pictures\butterfly.jpg"></image>
+</resources>
